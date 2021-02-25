@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>W Blog</title>
+        <link>https://shulaotou.github.io/blog</link>
+        <description>W Blog</description>
+        <lastBuildDate>Thu, 25 Feb 2021 18:22:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[怎样让你的 GitHub 全绿]]></title>
+            <link>https://shulaotou.github.io/blog/github</link>
+            <guid>github</guid>
+            <pubDate>Thu, 25 Feb 2021 18:22:41 GMT</pubDate>
+            <description><![CDATA[11]]></description>
+        </item>
+    </channel>
+</rss>
